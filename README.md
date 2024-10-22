@@ -154,18 +154,6 @@ chatbot-backend/
 - **Recursos**
     - `application.properties`: Arquivo de configuração da aplicação.
 
-## Testes
-
-### ChatBotUniubeAbertaApplicationTests
-Classe de testes para verificar se o contexto da aplicação carrega corretamente.
-
-### Testes
-Para executar os testes automatizados, utilize o comando:
-```bash
-mvn test
-```
-Os testes estão localizados em `src/test/java/br/com/johnlaff/chatbot/ChatBotUniubeAbertaApplicationTests.class`.
-
 ## Contribuição
 Contribuições são bem-vindas! Se você deseja contribuir para este projeto, por favor, siga os passos abaixo:
 1. Fork este Repositório
@@ -183,14 +171,9 @@ git push origin feature/NovaFeature
 ```
 5. Abra um Pull Request
 
-## Licença
-Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
-
 ## Contato
 Se você tiver qualquer dúvida ou sugestão, sinta-se à vontade para entrar em contato:
-- **Nome**: John Laff
-- **Email**: johnlaff@example.com
-- **LinkedIn**: John Laff
-- **GitHub**: johnlaff
 
-© 2024 John Laff. Todos os direitos reservados.
+- **Nome**: João Lucas Ferreira
+- **Email**: joaoaraxaiba@gmail.com
+- **LinkedIn**: [João Lucas Ferreira](https://www.linkedin.com/in/johnlaff/)
